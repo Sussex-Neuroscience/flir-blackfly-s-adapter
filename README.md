@@ -8,6 +8,11 @@ The camera port has an internal diameter of 38mm and a 1.25X objective installed
 
 The camera itself has a c-mount thread.
 
+|||
+|--|--|
+|![](./IMG_20211006_150504.jpg)|![](./IMG_20211006_150507.jpg)|
+
+
 ### Dependencies:
 
 - Thread openScad library:
